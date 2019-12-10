@@ -56,7 +56,7 @@ const browserParams = {
         '--no-sandbox',
         '--disable-setuid-sandbox'
     ],
-    executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' //let's use real chrome instead of Chromium
+//    executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' //let's use real chrome instead of Chromium
 }
 
 const checkUrl = (url) => {
